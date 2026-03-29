@@ -1,1 +1,1 @@
-# Python_mini_project
+# Java_mini_project
